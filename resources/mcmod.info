@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tienanh109",
+  "name": "Dit me cai cuoc",
+  "description": "nhin cai deo me j. mod boi th tanh chu ai",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://bit.ly/tienanh109",
+  "updateUrl": "",
+  "authorList": ["tienanh109"],
+  "credits": "tienanh109",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
