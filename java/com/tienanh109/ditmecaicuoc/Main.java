@@ -1,3 +1,6 @@
+// Made by tienanh109 with MIT LICENSE
+// https://github.com/tienanh109
+
 package com.tienanh109.ditmecaicuoc;
 
 import net.minecraft.init.Blocks;
