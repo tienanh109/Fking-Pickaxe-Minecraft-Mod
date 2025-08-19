@@ -7,5 +7,5 @@ My first Minecraft Mod. For Minecraft 1.9.4 Forge.
 - Enjoy!
 
 # Credits
-- Made by **tienanh109*
+- Made by **tienanh109**
 - with Java using Forge API (Forge MDK 1.9.4)
